@@ -3,6 +3,10 @@
 </p>
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kristina-lim&style=flat-square&color=ab784e"/>
+</div>
+
+<div align="center">
   <h5>Connect with me:</h5>
   <a href="mailto:kristinahlim@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/3296/3296464.png" width="40" height="40" />
