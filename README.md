@@ -2,7 +2,6 @@
   <img src="https://i.imgur.com/wCFeIac.gif" width="900px" />
 </p>
 
-<h1> Hi there! 👋🏻👩🏻‍💻 </h1>
 <div align="center">
   <h5>Connect with me:</h5>
   <a href="mailto:kristinahlim@gmail.com">
@@ -12,11 +11,29 @@
     <img src="https://cdn-icons-png.flaticon.com/512/207/207084.png" width="40" height="40" />
   </a>
 </div>
-<br>
+
+<h1> Hi there! 👋🏻👩🏻‍💻 </h1>
 <ul>🖥 I'm Kris and I'm a software developer based in the Bay Area.</ul>
-<ul>⭐️ My hobbies consist of building legos, discovering new artists, playing games, playing my violin, and going on nature walks.</ul>
+<ul>⭐️ My hobbies consist of building legos, listening to music and discovering new artists, playing games, playing my violin, and going on nature walks.</ul>
 <ul>🔭 I’m currently working on my portfolio</ul>
-<ul></ul>
+
+<div>
+  <h2>My toolbox 🧰</h2>
+  <img src="https://cdn-icons-png.flaticon.com/512/8945/8945581.png" width="50" height="50" />
+  <img src="https://cdn-icons-png.flaticon.com/512/1891/1891365.png" width="50" height="50" />
+  <img src="https://cdn-icons-png.flaticon.com/512/8945/8945626.png" width="50" height="50" />
+  <img src="https://cdn-icons-png.flaticon.com/512/2570/2570575.png" width="50" height="50" />
+  <img src="https://cdn-icons-png.flaticon.com/512/392/392071.png" width="50" height="50" />
+  <img src="https://cdn-icons-png.flaticon.com/512/477/477430.png" width="50" height="50" />
+  <img src="https://cdn-icons-png.flaticon.com/512/1183/1183621.png" width="50" height="50" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5726/5726104.png" width="50" height="50" />
+  <img src="https://icon-library.com/images/django-icon/django-icon-10.jpg" width="50" height="50" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" width="50" height="50" />
+  <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="50" height="50" />
+  <img src="https://cdn-icons-png.flaticon.com/512/1322/1322053.png" width="50" height="50" />
+</div>
+
+
 
 
 <!--
