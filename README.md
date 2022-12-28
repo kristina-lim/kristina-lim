@@ -14,7 +14,7 @@
 
 <div align="center">
   <h1> Hi there! 👋🏻👩🏻‍💻 </h1>
-  <ul>🖥 I'm Kris and I'm a software developer based in the Bay Area.</ul>
+  <ul>🖥 I'm Kris and I'm a software developer.</ul>
   <ul>⭐️ My hobbies consist of building legos, listening to music and discovering new artists, playing games,
   playing the violin, the viola and the guitar, and going on nature walks.</ul>
   <ul>🔭 I’m currently working on my portfolio.. so stay tuned!</ul>
