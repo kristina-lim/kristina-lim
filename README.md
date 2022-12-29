@@ -26,18 +26,19 @@
 
 <div align="center">
   <h2>My toolbox 🧰</h2>
-  <img src="https://cdn-icons-png.flaticon.com/512/8945/8945581.png" width="50" height="50" />
-  <img src="https://cdn-icons-png.flaticon.com/512/1891/1891365.png" width="50" height="50" />
-  <img src="https://cdn-icons-png.flaticon.com/512/8945/8945626.png" width="50" height="50" />
-  <img src="https://cdn-icons-png.flaticon.com/512/2570/2570575.png" width="50" height="50" />
-  <img src="https://cdn-icons-png.flaticon.com/512/392/392071.png" width="50" height="50" />
-  <img src="https://cdn-icons-png.flaticon.com/512/477/477430.png" width="50" height="50" />
-  <img src="https://cdn-icons-png.flaticon.com/512/1183/1183621.png" width="50" height="50" />
-  <img src="https://cdn-icons-png.flaticon.com/512/5726/5726104.png" width="50" height="50" />
-  <img src="https://icon-library.com/images/django-icon/django-icon-10.jpg" width="50" height="50" />
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" width="50" height="50" />
-  <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="50" height="50" />
-  <img src="https://cdn-icons-png.flaticon.com/512/1322/1322053.png" width="50" height="50" />
+  <img src="https://cdn-icons-png.flaticon.com/512/8945/8945581.png" alt="JavaScript" width="50" height="50" />
+  <img src="https://cdn-icons-png.flaticon.com/512/8945/8945486.png" alt="HTML" width="50" height="50" />
+  <img src="https://cdn-icons-png.flaticon.com/512/8945/8945626.png" alt="CSS" width="50" height="50" />
+  <img src="https://cdn-icons-png.flaticon.com/512/2570/2570575.png" alt="Python" width="50" height="50" />
+  <img src="https://cdn-icons-png.flaticon.com/512/392/392071.png" alt="MongoDB" width="50" height="50" />
+  <img src="https://cdn-icons-png.flaticon.com/512/477/477430.png" alt="Express.js" width="50" height="50" />
+  <img src="https://cdn-icons-png.flaticon.com/512/1183/1183621.png" alt="React.js" width="50" height="50" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5726/5726104.png" alt="Node.js" width="50" height="50" />
+  <img src="https://icon-library.com/images/django-icon/django-icon-10.jpg" alt="Django" width="50" height="50" />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="PostgreSQL" width="50" height="50" />
+  <img src="https://cdn-icons-png.flaticon.com/512/873/873120.png" alt="Heroku" width="50" height="50" />
+  <img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" alt="VSCode" width="50" height="50" />
+  <img src="https://cdn-icons-png.flaticon.com/512/1322/1322053.png" alt="GitHub" width="50" height="50" />
 </div>
 
 <div align="center">
