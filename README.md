@@ -8,7 +8,7 @@
 
 <div align="center">
   <h5>Connect with me:</h5>
-  <a href="mailto:kristinahlim@gmail.com">
+  <a href="mailto:khlim.developer@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/3296/3296464.png" width="40" height="40" />
   </a>
   <a href="https://www.linkedin.com/in/kristina-lim-01">
