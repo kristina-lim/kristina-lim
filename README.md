@@ -11,7 +11,7 @@
   <a href="mailto:khlim.developer@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/3296/3296464.png" alt="email" width="40" height="40" />
   </a>
-  <a href="kristina-lim.netlify.app">
+  <a href="https://kristina-lim.netlify.app">
     <img src="https://cdn-icons-png.flaticon.com/512/8568/8568490.png" alt="portfolio" width="40" height="40" />
   </a>
   <a href="https://www.linkedin.com/in/kristina-lim-01">
@@ -24,7 +24,7 @@
   <ul>🖥 I'm Kris and I'm a software developer.</ul>
   <ul>⭐️ My hobbies consist of building legos, listening to music and discovering new artists, playing games,
   playing the violin, the viola and the guitar, and going on nature walks.</ul>
-  <ul>🔭 I’m currently studying on algorithms and creating a React project right now!</ul>
+  <ul>🔭 I’m currently studying and editing my portfolio. Going to start another project soon!</ul>
 </div>
 
 <div align="center">
