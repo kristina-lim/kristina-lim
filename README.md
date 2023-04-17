@@ -11,10 +11,10 @@
   <a href="mailto:khlim.developer@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/3296/3296464.png" alt="email" width="40" height="40" />
   </a>
-  <a href="https://kristina-lim.netlify.app">
+  <a href="https://kristina-lim.netlify.app" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/8568/8568490.png" alt="portfolio" width="40" height="40" />
   </a>
-  <a href="https://www.linkedin.com/in/kristina-lim-01">
+  <a href="https://www.linkedin.com/in/kristina-lim-01" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/207/207084.png" alt="linkedin" width="40" height="40" />
   </a>
 </div>
