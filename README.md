@@ -28,6 +28,36 @@
 </div>
 
 <div align="center">
+  <h2>My projects 🖥</h2>
+  <h3>
+    <a href="https://github.com/kristina-lim/Gingyman">
+      Gingyman
+    </a>
+  </h3>
+  <li>A browser-based version of the classic Spaceman game created using JavaScript, HTML, CSS, and deployed on GitHub.</li>
+  <h3>
+    <a href="https://github.com/kristina-lim/-codemonk-">
+      [codemonk]
+    </a>
+  </h3>
+  <li>A browser-based version of the classic Spaceman game created using JavaScript, HTML, CSS, and deployed on GitHub.</li>
+  <h3>
+    <a href="https://github.com/kristina-lim/ootd">
+      OOTD
+    </a>
+  </h3>
+  <li>
+    A Full-stack CRUD (create, read, update, delete) web application made using Node.js, Express.js, and MongoDB, and deployed on Heroku. The app enables       users to login using Google OAuth, browse a list of outfits worn throughout the week, and view further details about each individual photos including       sizes of clothing, brand of clothing, and comments that other users made.
+  </li>
+  <h3>
+    <a href="https://kristina-lim.github.io/Gingyman/">
+      Gingyman
+    </a>
+  </h3>
+  <li>A browser-based version of the classic Spaceman game created using JavaScript, HTML, CSS, and deployed on GitHub.</li>
+</div>
+
+<div align="center">
   <h2>My toolbox 🧰</h2>
   <img src="https://cdn-icons-png.flaticon.com/512/8945/8945581.png" alt="JavaScript" width="50" height="50" />
   <img src="https://cdn-icons-png.flaticon.com/512/8945/8945486.png" alt="HTML" width="50" height="50" />
