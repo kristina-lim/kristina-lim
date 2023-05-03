@@ -30,25 +30,23 @@
 <div align="center">
   <h2>My projects 🖥</h2>
   <h3>
-    <a href="https://github.com/kristina-lim/Gingyman">
-      Gingyman
+    <a href="http://universe-wardrobe.herokuapp.com/">
+      Universe's Wardrobe
     </a>
   </h3>
-  <li>A browser-based version of the classic Spaceman game created using JavaScript, HTML, CSS, and deployed on GitHub.</li>
+  <li>Steven Universe inspired full-stack CRUD web e-commerce application created using React, JavaScript, Express.js, MongoDB, HTML, CSS, and deployed on Heroku. Enables users to add costumes into their cart, edit, delete, as well as post, edit, and delete their own review.</li>
   <h3>
-    <a href="https://github.com/kristina-lim/-codemonk-">
+    <a href="http://codemonk-wars.herokuapp.com/">
       [codemonk]
     </a>
   </h3>
-  <li>A browser-based version of the classic Spaceman game created using JavaScript, HTML, CSS, and deployed on GitHub.</li>
+  <li>A collaborative (team of four developers), Full-stack CRUD (create, read, update, delete) web application created using 'mob programming,' Django, Python, HTML, and CSS, and deployed on Heroku. The app allows users to sign up or login, view coding posts, create a coding challenge, comment on the post, and like comments. Our team's mission was to create an app where students can come together to network and work on coding challenges together.</li>
   <h3>
-    <a href="https://github.com/kristina-lim/ootd">
+    <a href="http://ootd-fit-of-the-day.herokuapp.com/">
       OOTD
     </a>
   </h3>
-  <li>
-    A Full-stack CRUD (create, read, update, delete) web application made using Node.js, Express.js, and MongoDB, and deployed on Heroku. The app enables       users to login using Google OAuth, browse a list of outfits worn throughout the week, and view further details about each individual photos including       sizes of clothing, brand of clothing, and comments that other users made.
-  </li>
+  <li>A Full-stack CRUD (create, read, update, delete) web application made using Node.js, Express.js, and MongoDB, and deployed on Heroku. The app enables users to login using Google OAuth, browse a list of outfits worn throughout the week, and view further details about each photos including sizes, brand of clothing, and comments that other users have made.</li>
   <h3>
     <a href="https://kristina-lim.github.io/Gingyman/">
       Gingyman
