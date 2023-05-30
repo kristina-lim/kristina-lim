@@ -24,7 +24,7 @@
   <ul>🖥 I'm Kris and I'm a software developer.</ul>
   <ul>⭐️ My hobbies consist of building legos, listening to music and discovering new artists, playing games,
   playing the violin, the viola and the guitar, and going on nature walks.</ul>
-  <ul>🔭 I’m currently reviewing Python and editing my portfolio. Also starting a project!</ul>
+  <ul>🔭 I currently finished reviewing Python and editing my portfolio. I am now reviewing React and starting a React project that mimics airbnb!</ul>
 </div>
 
 <div align="center">
