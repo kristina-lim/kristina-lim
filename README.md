@@ -24,7 +24,7 @@
   <ul>🖥 I'm Kris and I'm a software developer.</ul>
   <ul>⭐️ My hobbies consist of building legos, listening to music and discovering new artists, playing games,
   playing the violin, the viola and the guitar, and going on nature walks.</ul>
-  <ul>🔭 I am now reviewing React and starting a React project that mimics airbnb!</ul>
+  <ul>🔭 I am now learning Java and have made a GPA Calculator for college students to get their GPA for the semester.</ul>
 </div>
 
 <div align="center">
